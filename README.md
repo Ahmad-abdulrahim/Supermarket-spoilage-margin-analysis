@@ -54,19 +54,19 @@ supermarket, covering July 2020 to June 2023.
 ## Visualizations
 
 ### Gross Margin vs. Loss-Adjusted Margin by Category
-![Gross vs Loss-Adjusted Margin](images/Gross_margin_vs_Loss_adj_margin.png)
+![Gross vs Loss-Adjusted Margin](charts/Gross_margin_vs_Loss_adj_margin.png)
 
 ### Margin Erosion Due to Spoilage, by Category
-![Margin Erosion](images/Margin_erosion.png)
+![Margin Erosion](charts/Margin_erosion.png)
 
 ### Estimated Revenue Lost to Spoilage, by Category
-![Revenue Lost](images/Revenue_Lost.png)
+![Revenue Lost](charts/Revenue_Lost.png)
 
 ### Top 10 Items — [Worst Category] Drill-Down
-![Top 10 Items Category Drill-Down](images/top_10_items_erosion_(FV_Category).png)
+![Top 10 Items Category Drill-Down](charts/top_10_items_erosion_(FV_Category).png)
 
 ### Top 10 Items Store-Wide by Margin Erosion
-![Top 10 Items Store-Wide](images/top_10_items_erosion.png)
+![Top 10 Items Store-Wide](charts/top_10_items_erosion.png)
 
 ## Methodology & Key Assumptions
 
